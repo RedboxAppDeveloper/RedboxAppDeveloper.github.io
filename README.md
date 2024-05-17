@@ -8,6 +8,7 @@
 * [小立易点智能](https://www.pgyer.com/USGSU2)
 * [民洁卫浴](https://www.pgyer.com/aP4g)
 * [OTA upgrade](https://www.pgyer.com/P6PT)
+* [SyncEnergy](https://www.pgyer.com/yScjxZ)
 
 ## Google Play
 
@@ -23,3 +24,7 @@
 * [CookProbe](https://apps.apple.com/us/app/cookprobe/id6473221869)
 * [小立易点智能](https://apps.apple.com/cn/app/%E5%B0%8F%E7%AB%8B%E6%98%93%E7%82%B9%E6%99%BA%E8%83%BD/id6473572275)
 * [OTA upgrade](https://apps.apple.com/hk/app/ota-upgrade/id6450377634)
+
+## 工具
+
+* [LocalSend](https://www.pgyer.com/rQNDaMTK)
