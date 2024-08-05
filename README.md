@@ -4,6 +4,7 @@
 
 * [Redbox Smart](https://www.pgyer.com/DMSMxR)
 * [HGsmart](https://www.pgyer.com/UuQ6)
+* [它好](https://www.pgyer.com/BfFOMiwU)
 * [CookProbe](https://www.pgyer.com/RvonMW)
 * [小立易点智能](https://www.pgyer.com/USGSU2)
 * [民洁卫浴](https://www.pgyer.com/aP4g)
