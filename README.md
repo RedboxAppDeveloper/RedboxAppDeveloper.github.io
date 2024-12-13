@@ -17,6 +17,7 @@
 * [HGsmart](https://play.google.com/store/apps/details?id=net.hgsmart.iot)
 * [CookProbe](https://play.google.com/store/apps/details?id=com.redbox.iot.app.cookee)
 * [OTA upgrade](https://play.google.com/store/apps/details?id=com.redbox.iot.app.bleupdate)
+* [SyncEnergy](https://play.google.com/store/apps/details?id=com.redbox.iot.app.luceco.syncenergy&pli=1)
 
 ## App Store 
 
@@ -25,6 +26,7 @@
 * [CookProbe](https://apps.apple.com/us/app/cookprobe/id6473221869)
 * [小立易点智能](https://apps.apple.com/cn/app/%E5%B0%8F%E7%AB%8B%E6%98%93%E7%82%B9%E6%99%BA%E8%83%BD/id6473572275)
 * [OTA upgrade](https://apps.apple.com/hk/app/ota-upgrade/id6450377634)
+* [SyncEnergy](https://apps.apple.com/us/app/sync-energy/id6557075265)
 
 ## 工具
 
